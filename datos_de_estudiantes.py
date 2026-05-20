@@ -1,0 +1,10 @@
+
+nie = input("ingrese su nie")
+nombre = input("ingrese su nombre")
+edad = input("ingrese su Edad")
+año = input("ingrese su año de estudio")
+correo_institucional = input("ingrese su correo institucional")
+print = ("hola", nombre)
+print = ("tienes", edad, "años")
+print = ("este es tu nie", nie)
+print = ("este es tu correo", correo_institucional)
