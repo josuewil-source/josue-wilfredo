@@ -1,0 +1,10 @@
+traducciones = 
+{
+    "hola": "hello",
+    "mundo": "world",
+    "python": "python"
+}
+
+palabra = "hola"
+
+print(traducciones.get(palabra, "No encontrada"))  
